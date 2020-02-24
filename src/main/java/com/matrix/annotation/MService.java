@@ -3,10 +3,9 @@ package com.matrix.annotation;
 import java.lang.annotation.*;
 
 /**
- * @Classname MService
- * @Description TODO
- * @Date 2020-02-08 10:03
- * @Created by jiaoy
+ * 这是一个类说明
+ * @author (yu.jiao)
+ * @date 2020/02/08
  */
 @Target({ElementType.TYPE})
 @Retention(RetentionPolicy.RUNTIME)
